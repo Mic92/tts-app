@@ -2,6 +2,7 @@
 
 Simple gtk4 frontend for a [TTS server](https://github.com/coqui-ai/TTS).
 
+![screenshot](screenshot.png "Screenshot")
 
 ## Build && install
 
