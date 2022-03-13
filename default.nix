@@ -14,7 +14,7 @@ let
     comment = "Text to speech ui";
     desktopName = "TTS App";
     genericName = "TTS";
-    categories = "Audio";
+    categories = ["Audio"];
   };
 in
 pkgs.stdenv.mkDerivation {
